@@ -1,0 +1,66 @@
+{
+  "men": [
+    {
+      "id": 1,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 4000"
+    },
+    {
+      "id": 2,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 3000"
+    },
+    {
+      "id": 3,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 4500"
+    },
+    {
+      "id": 4,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 5000"
+    },
+    {
+      "id": 5,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 1000"
+    },
+    {
+      "id": 6,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 2000"
+    }
+  ],
+  "women": [
+    {
+      "id": 1,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 4000"
+    },
+    {
+      "id": 2,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 3000"
+    },
+    {
+      "id": 3,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 4500"
+    },
+    {
+      "id": 4,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 5000"
+    },
+    {
+      "id": 5,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 1000"
+    },
+    {
+      "id": 6,
+      "img": "https://placeimg.com/640/480/any",
+      "price": "Rs 2000"
+    }
+  ]
+}

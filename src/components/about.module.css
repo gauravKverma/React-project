@@ -1,0 +1,17 @@
+.maindiv{
+    height: 80.5vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.heading{
+    font-size: 45px;
+    font-weight: 700;
+    text-decoration: underline;
+    margin-top: 100px;
+}
+.para{
+    font-size: 18px;
+    font-style: italic;
+    margin-top: 50px;
+}

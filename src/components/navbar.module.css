@@ -1,0 +1,32 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 25px;
+    /* border-bottom: 2px solid; */
+    align-items: center;
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+.linksDiv{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    font-weight: 500;
+}
+.heading{
+    font-size: 22px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    text-decoration: underline;
+}
+.banner{
+    background-color: cornflowerblue;
+    padding: 3px 0px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
+.link:hover{
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
